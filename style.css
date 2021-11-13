@@ -100,3 +100,9 @@ p{
     text-align: ;
 }
 
+.description{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    left: 50%;
+}
